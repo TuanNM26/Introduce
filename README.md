@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TuanNM</h1>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently Coding
 
 - 📫 How to reach me **tuannm26.work@gmail.com**
 
